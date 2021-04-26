@@ -1,0 +1,1 @@
+JavaScript follows the DMAS rule and if there are parenthesis then it will solve the parenthesis first. So,in this formula (base*height)/2 if we don't put parenthesis it will make the division first which will result in a wrong calculation.
